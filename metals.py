@@ -2,7 +2,7 @@ import unittest
 
 """
 Author: Dania Ismadi
-Dae: September 6, 2020
+Date: September 6, 2020
 
 Problem: Metals
 Link: https://www.hackerrank.com/contests/juniper-hackathon/challenges/metals/problem
